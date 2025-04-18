@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **muhammedanwarshab@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/muhammedanwarsha/](https://www.linkedin.com/in/muhammedanwarsha/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/anwar-fullstack-java-developer/](https://www.linkedin.com/in/anwar-fullstack-java-developer/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
